@@ -5,7 +5,7 @@ from sqlalchemy import create_engine, text
 #CONFIGURATION ---
 
 DB_USER = "root"
-DB_PASSWORD = "root"
+DB_PASSWORD = "your password"
 DB_HOST = "localhost"
 DB_PORT = "3306"
 DB_NAME = "campuse_db"
